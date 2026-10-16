@@ -12,3 +12,5 @@ Sunita Williams - on board
 Li Guangsu - on board
 Li Cong - on board
 Ye Guangfu - on board
+
+ Your current lat / long is: [44.6427, -63.5769]

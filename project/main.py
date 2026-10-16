@@ -18,6 +18,6 @@ for p in people:
 # print long and Lat
 
 g = geocoder.ip('me')
-file.write("\n your current lat / lat is: " + str(g.lating))
+file.write("\n Your current lat / long is: " + str(g.latlng))
 file.close()
 webbrowser.open("iss.txt")
